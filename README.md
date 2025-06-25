@@ -1,5 +1,5 @@
-#[agudeloromero.github.io](https://github.com/agudeloromero)
-#[MEDUSA-nova.github.io](https://github.com/MEDUSA-nova)
+
+# [MEDUSA-nova.github.io](https://MEDUSA-nova.github.io)
 Mix-and-rEad assay for rapid Detection of virUSes and bActeria
 
 <p align="center"> <img width="200" src="Patricia_photo_blue.jpg" alt=""> </p>
