@@ -1,5 +1,6 @@
-# [agudeloromero.github.io](https://github.com/agudeloromero)
-Patricia's personal website
+#[agudeloromero.github.io](https://github.com/agudeloromero)
+#[MEDUSA-nova.github.io](https://github.com/MEDUSA-nova)
+Mix-and-rEad assay for rapid Detection of virUSes and bActeria
 
 <p align="center"> <img width="200" src="Patricia_photo_blue.jpg" alt=""> </p>
 <p align="center"> <strong> Patricia Agudelo-Romero, PhD </strong></p>
